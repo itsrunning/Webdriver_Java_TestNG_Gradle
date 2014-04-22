@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testGoogle.test.HomePageTest" tests="1" failures="0" errors="0" timestamp="2014-04-22T06:27:14" hostname="Agalyas-MacBook-Pro.local" time="0.524">
-  <properties/>
-  <testcase name="doGoogleSearch" classname="testGoogle.test.HomePageTest" time="0.524"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
