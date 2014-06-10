@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/itsrunning/Webdriver_Java_TestNG_Gradle.svg?branch=master)](https://travis-ci.org/itsrunning/Webdriver_Java_TestNG_Gradle)
+
 Webdriver_Java_TestNG_Gradle
 ============================
 
