@@ -9,17 +9,17 @@ Step 1: Clone this repository to your local
 ```Java
 git clone https://github.com/itsrunning/Webdriver_Java_TestNG_Gradle.git
 ```
+Step 2: Provided Firefox is installed, proceed to run the TestNG test 
 
-Step 2: Download Eclipse or Intellija as IDE and configure with latest Java 
+
+## Dependencies
+ 1: Download Eclipse or Intellija as IDE and configure with latest Java 
 ```Java
-
+  Eclipse : https://www.eclipse.org/downloads/
+  IntelliJ IDEA : http://www.jetbrains.com/idea/download/
+  JAVA_8 : http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html
 ```
-
-Step 3: Download TestNG and configure with IDE
-```Java
-
+ 2: Gradle as build tool
+ ```Java
+     http://www.gradle.org/downloads
 ```
-Step 4: Gradle as build tool
-
-Step 5: Provided Firefox is installed, proceed to run the TestNG test 
-
