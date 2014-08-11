@@ -25,3 +25,16 @@ Step 2: Provided Firefox is installed, proceed to run the TestNG test
  ```
      http://www.gradle.org/downloads
 ```
+
+## FAQ
+ ```
+ 1. How to resolve  Error "command not found: gradle" ?
+      - Install gradle through brew or download zip file from internet and extract to your local. And add gradle full path ( .../../bin) to your PATH variable.
+      - Set Java_Home to PATH Variable.
+ 2. How to configure TestNG?
+      - No need to configure TestNG and its available with gradle.
+
+ 3. Is it necessary to integrate Eclipse or Intellija?
+      - Not necessary to use Eclipse or Intellija and you can use any open source IDE.
+
+ ```
